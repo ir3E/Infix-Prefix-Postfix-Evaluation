@@ -1,5 +1,4 @@
-//BSIT 2-5 -- Group 1 Members: Balaca, Bonayog, Castillo, Cornelia, Jao, Sampaga, Taer, Velasco, Watson
-//Data Structures & Algorithms (QUIZ #2) -- Prof. Lydinar Dastas
+// Infix, Prefix, Postfix Evaluation 
 
 //header files  
 #include <stdio.h>
